@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import Link from "next/link";
-import { createSubscriber } from "@/pages/api/subscriber";
+import { createSubscriber } from "@/utils/api/subscriber";
 import { toast } from "sonner";
 import { currentYear } from "@/utils/currentYear";
 
