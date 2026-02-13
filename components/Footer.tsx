@@ -61,20 +61,7 @@ export const Footer = () => {
 							Your trusted source for quality motorcycle parts in Uganda. We offer genuine and
 							aftermarket parts for all motorcycle makes and models.
 						</p>
-						<div className="flex gap-2">
-							<Button size="icon" variant="ghost" className="h-9 w-9 hover:bg-accent/20 hover:text-accent">
-								<Facebook className="h-4 w-4" />
-							</Button>
-							<Button size="icon" variant="ghost" className="h-9 w-9 hover:bg-accent/20 hover:text-accent">
-								<Twitter className="h-4 w-4" />
-							</Button>
-							<Button size="icon" variant="ghost" className="h-9 w-9 hover:bg-accent/20 hover:text-accent">
-								<Instagram className="h-4 w-4" />
-							</Button>
-							<Button size="icon" variant="ghost" className="h-9 w-9 hover:bg-accent/20 hover:text-accent">
-								<Youtube className="h-4 w-4" />
-							</Button>
-						</div>
+
 					</div>
 
 					{/* Quick Links */}
